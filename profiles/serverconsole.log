@@ -1,0 +1,1114 @@
+﻿12:00:15 BattlEye Server: Initialized (v1.219, DayZ 1.26.158964)
+12:00:15 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.26.158964)
+12:00:15 BattlEye Server: Config entry: RConPassword 58bfabb41a9cc0f2e5fbb6a3d7a7a441
+12:00:15 BattlEye Server: Config entry: RConPort 2305
+12:00:15 BattlEye Server: Config entry: RestrictRCon 0
+12:00:15 Rollen zugeteilt.
+12:00:15 Lade Mission ...
+12:00:20 [CE][Hive] :: Initializing OFFLINE
+12:00:20 [StorageDirs] :: Selected storage directory: C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\
+12:00:20 [CE][Hive] :: Loading core data ... 
+12:00:20 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+12:00:23 [CE][TypeSetup] :: 566 classes setuped...
+12:00:24 [CE][RegisterBind] :: 0 classes binded...
+12:00:24 [CE][RegisterConfig] :: 11706 config classes registered, 0 sub-counters...
+12:00:24 [CE][Hive] :: Loading map data ... 
+12:00:24 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+12:00:24 [CE][LoadPrototype] :: loaded 496 prototypes
+12:00:24   951 containers, 13162 points
+12:00:24   71 dispatches, 250 proxies
+12:00:24 !!! [CE][LoadPrototype] 5 groups have no points...
+12:00:24 !!! [CE][LoadPrototype] 3 groups have wrong points...
+12:00:24 [CE][LoadPrototype] :: last group name: Land_House_1W15_Dam_Snow...
+12:00:24 [CE][LoadPrototype] :: loaded 0 prototypes
+12:00:24   63 containers, 338 points
+12:00:24   0 dispatches, 0 proxies
+12:00:24 [CE][LoadPrototype] :: last group name: RoadMud_7100...
+12:00:24 [CE][LoadMap] "Group" :: loaded 7648 groups, groups failed: 0, largest group range: 64.0
+12:00:24 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 64.0
+12:00:25 [CE][LoadClusters] "Cluster" :: Loading files...
+12:00:25 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 2 types, 49386 instances
+12:00:25 [CE][Storage] ver:21 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\types.bin"
+12:00:25 [CE][Storage] ver:21 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\types.001"
+12:00:25 [CE][Storage] ver:21 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\types.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\types.bin".
+12:00:25 !!! File "DZ\worlds\sakhal\ce\db/messages.xml" does not exist...
+12:00:25 !!! [ERROR][XML] :: load [DZ\worlds\sakhal\ce\db/messages.xml] failed
+12:00:25 !!! [ERROR][XML] :: Failed to open file
+12:00:25 !!! [CE][offlineDB] :: Failed to read messages file 'db/messages.xml'.
+12:00:25 !!! [CE][offlineDB] :: No Shutdown message present.
+12:00:25 [CE][offlineDB] :: Loaded 38 dynamic events 180 total types.
+12:00:25 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:25 !!! [CE][offlineDB] :: Type 'Land_wreck_sed02_aban1_police' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:25 !!! [CE][offlineDB] :: Type 'Land_wreck_sed02_aban2_police' will be ignored. (Not spawnable. (Scope is not public?))
+12:00:25 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+12:00:25 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\dayzOffline.sakhal\Modded/BedRespawn.xml] failed
+12:00:25 !!! [ERROR][XML] :: Error reading Element value.
+12:00:25 !!! [CE][offlineDB] :: Failed to read types file 'Modded/BedRespawn.xml'.
+12:00:25 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\dayzOffline.sakhal\Modded/BuildingFortifications.xml] failed
+12:00:25 !!! [ERROR][XML] :: Error reading Element value.
+12:00:25 !!! [CE][offlineDB] :: Failed to read types file 'Modded/BuildingFortifications.xml'.
+12:00:25 !!! [CE] :: Unknown usage: 'Civilian'.
+12:00:25 !!! [CE] :: Unknown usage: 'Civilian'.
+12:00:25 [CE][DE][SPAWNS] :: Total positions: 504
+12:00:25 [CE][DE][GROUPS] :: Total eventgroups defined: 1, Eventgroups in use: 1
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\events.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\events.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\events.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\events.bin".
+12:00:25 [CE][DynamicEvent] Load  Events:[38] Primary spawners: 38 Secondary spawners: 1
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_000.bin" 127 items.
+12:00:25   127 items loaded. (0 failed)
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_001.bin" 226 items.
+12:00:25   226 items loaded. (0 failed)
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_002.bin" 453 items.
+12:00:25   453 items loaded. (0 failed)
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_003.bin" 453 items.
+12:00:25   453 items loaded. (0 failed)
+12:00:25 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.bin"
+12:00:25 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.001"
+12:00:25 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.002"
+12:00:25 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_004.bin" 2723 items.
+12:00:26   2723 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_005.bin" 1231 items.
+12:00:26   1231 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_006.bin" 1387 items.
+12:00:26   1387 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_007.bin" 839 items.
+12:00:26   839 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_008.bin" 962 items.
+12:00:26   962 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_009.bin" 550 items.
+12:00:26   550 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_010.bin" 923 items.
+12:00:26   923 items loaded. (0 failed)
+12:00:26 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.bin"
+12:00:26 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.001"
+12:00:26 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.002"
+12:00:26 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\dynamic_011.bin" 306 items.
+12:00:27   306 items loaded. (0 failed)
+12:00:27 [CE][Storage] ver:26 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\building.bin"
+12:00:27 [CE][Storage] ver:26 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\building.001"
+12:00:27 [CE][Storage] ver:26 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\building.002"
+12:00:27 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\building.bin" 0 items.
+12:00:27   0 items loaded. (0 failed)
+12:00:27 [CE][Storage] ver:25 stamp:2159, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.bin"
+12:00:27 [CE][Storage] ver:25 stamp:2154, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.001"
+12:00:27 [CE][Storage] ver:25 stamp:2155, valid:yes, name:"C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.002"
+12:00:27 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\DayZ Server\servers\AfterLife\mpmissions\dayzOffline.sakhal\storage_1\data\vehicles.bin" 86 items.
+12:00:27   86 items loaded. (0 failed)
+12:00:27 [CE][Hive] :: Storage load took:2.06 seconds, recovery stamp:2159
+12:00:27   entity: 11147, building: 0
+12:00:27   no lifetime: 52
+12:00:27   pathgraph's: 337
+12:00:27 [CE][Hive] :: Initializing ... 
+12:00:27 [CE][InitializeMap] :: initialized: 0
+12:00:27 [CE][Hive] :: Initializing spawners ... 
+12:00:27 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:11292, Total in Map: 10255 at 0 (sec)
+12:00:27   tests:0, repeats:0 fails:0, overtime:0
+12:00:27 [CE][DynEvent] :: 38 types
+12:00:27 [00] AmbientFox
+12:00:27   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:00:27 [01] AmbientHare
+12:00:27   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:00:27 [02] AnimalBear
+12:00:27   Primary Spawner: "Animal", active: yes, repeat: 1
+12:00:27 [03] AnimalGoat
+12:00:27   Primary Spawner: "Animal", active: yes, repeat: 1
+12:00:27 [04] AnimalReindeer
+12:00:27   Primary Spawner: "Animal", active: yes, repeat: 1
+12:00:27 [05] AnimalSheep
+12:00:27   Primary Spawner: "Animal", active: yes, repeat: 1
+12:00:27 [06] AnimalWolf
+12:00:27   Primary Spawner: "Animal", active: yes, repeat: 1
+12:00:27 [07] InfectedArmy
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [08] InfectedCity
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [09] InfectedCityTier1
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [10] InfectedFirefighter
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [11] InfectedIndustrial
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [12] InfectedMedic
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [13] InfectedNBC
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [14] InfectedPolice
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [15] InfectedPoliceHard
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [16] InfectedPrisoner
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [17] InfectedReligious
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [18] InfectedSanta
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [19] InfectedScientist
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [20] InfectedSolitude
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [21] InfectedVillage
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [22] InfectedVillageTier1
+12:00:27   Primary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [23] ItemPlanks
+12:00:27   Primary Spawner: "Item", active: yes, repeat: 1
+12:00:27 [24] Loot
+12:00:27   Primary Spawner: "Loot", active: yes, repeat: 2
+12:00:27 [25] StaticMilitaryContainerSpecial
+12:00:27   Primary Spawner: "Static", active: yes, repeat: 1
+12:00:27 [26] StaticPoliceCar
+12:00:27   Primary Spawner: "Static", active: yes, repeat: 1
+12:00:27   Secondary Spawner: "Infected", active: yes, repeat: 1
+12:00:27 [27] StaticScientist
+12:00:27   Primary Spawner: "Static", active: yes, repeat: 1
+12:00:27 [28] TrajectoryCraterellus
+12:00:27   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:00:27 [29] TrajectoryStones
+12:00:27   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:00:27 [30] VehicleBoat
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [31] VehicleCivilianSedan
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [32] VehicleHatchback02
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [33] VehicleMiliBoat
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [34] VehicleOffroadHatchback
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [35] VehicleOffroad02
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [36] VehicleSedan02
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [37] VehicleTruck01
+12:00:27   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:00:27 [CE][Hive] :: Initializing of spawners done.
+12:00:27 [CE][Hive] :: Init sequence finished.
+12:00:37 Average server FPS: 5497.50 (measured interval: 10 s)
+12:00:47 Average server FPS: 6370.30 (measured interval: 10 s)
+12:00:57 Average server FPS: 7357.90 (measured interval: 10 s)
+12:01:07 Average server FPS: 7383.30 (measured interval: 10 s)
+12:01:17 Average server FPS: 8844.70 (measured interval: 10 s)
+12:01:27 Average server FPS: 15239.30 (measured interval: 10 s)
+12:01:37 Average server FPS: 24194.30 (measured interval: 10 s)
+12:01:47 Average server FPS: 24229.60 (measured interval: 10 s)
+12:01:57 Average server FPS: 24239.60 (measured interval: 10 s)
+12:02:07 Average server FPS: 24300.80 (measured interval: 10 s)
+12:02:17 Average server FPS: 24273.00 (measured interval: 10 s)
+12:02:27 Average server FPS: 24241.30 (measured interval: 10 s)
+12:02:37 Average server FPS: 24235.40 (measured interval: 10 s)
+12:02:47 Average server FPS: 24274.70 (measured interval: 10 s)
+12:02:57 Average server FPS: 24253.90 (measured interval: 10 s)
+12:03:07 Average server FPS: 24225.50 (measured interval: 10 s)
+12:03:17 Average server FPS: 24209.90 (measured interval: 10 s)
+12:03:27 Average server FPS: 24247.80 (measured interval: 10 s)
+12:03:37 Average server FPS: 24284.60 (measured interval: 10 s)
+12:03:47 Average server FPS: 24313.70 (measured interval: 10 s)
+12:03:57 Average server FPS: 24259.30 (measured interval: 10 s)
+12:04:07 Average server FPS: 24262.60 (measured interval: 10 s)
+12:04:17 Average server FPS: 24291.00 (measured interval: 10 s)
+12:04:27 Average server FPS: 24285.80 (measured interval: 10 s)
+12:04:37 Average server FPS: 24259.90 (measured interval: 10 s)
+12:04:47 Average server FPS: 24264.30 (measured interval: 10 s)
+12:04:57 Average server FPS: 24352.10 (measured interval: 10 s)
+12:05:07 Average server FPS: 24302.10 (measured interval: 10 s)
+12:05:17 Average server FPS: 24324.80 (measured interval: 10 s)
+12:05:27 Average server FPS: 24298.80 (measured interval: 10 s)
+12:05:37 Average server FPS: 24322.00 (measured interval: 10 s)
+12:05:47 Average server FPS: 24325.50 (measured interval: 10 s)
+12:05:57 Average server FPS: 24282.10 (measured interval: 10 s)
+12:06:07 Average server FPS: 24239.10 (measured interval: 10 s)
+12:06:17 Average server FPS: 24308.30 (measured interval: 10 s)
+12:06:27 Average server FPS: 24316.30 (measured interval: 10 s)
+12:06:37 Average server FPS: 24294.90 (measured interval: 10 s)
+12:06:47 Average server FPS: 24263.70 (measured interval: 10 s)
+12:06:57 Average server FPS: 24258.10 (measured interval: 10 s)
+12:07:07 Average server FPS: 24279.80 (measured interval: 10 s)
+12:07:17 Average server FPS: 24266.70 (measured interval: 10 s)
+12:07:27 Average server FPS: 24219.28 (measured interval: 10 s)
+12:07:37 Average server FPS: 24234.10 (measured interval: 10 s)
+12:07:47 Average server FPS: 24245.00 (measured interval: 10 s)
+12:07:57 Average server FPS: 24260.15 (measured interval: 10 s)
+12:08:07 Average server FPS: 24295.60 (measured interval: 10 s)
+12:08:17 Average server FPS: 24317.80 (measured interval: 10 s)
+12:08:27 Average server FPS: 24422.50 (measured interval: 10 s)
+12:08:37 Average server FPS: 23590.70 (measured interval: 10 s)
+12:08:47 Average server FPS: 24136.80 (measured interval: 10 s)
+12:08:57 Average server FPS: 24202.10 (measured interval: 10 s)
+12:09:07 Average server FPS: 24238.30 (measured interval: 10 s)
+12:09:17 Average server FPS: 24235.40 (measured interval: 10 s)
+12:09:27 Average server FPS: 24197.30 (measured interval: 10 s)
+12:09:37 Average server FPS: 24200.70 (measured interval: 10 s)
+12:09:47 Average server FPS: 24215.10 (measured interval: 10 s)
+12:09:57 Average server FPS: 24195.10 (measured interval: 10 s)
+12:10:07 Average server FPS: 24180.90 (measured interval: 10 s)
+12:10:17 Average server FPS: 24170.30 (measured interval: 10 s)
+12:10:27 Average server FPS: 24183.70 (measured interval: 10 s)
+12:10:37 Average server FPS: 24203.80 (measured interval: 10 s)
+12:10:47 Average server FPS: 24182.00 (measured interval: 10 s)
+12:10:57 Average server FPS: 24177.00 (measured interval: 10 s)
+12:11:07 Average server FPS: 24195.40 (measured interval: 10 s)
+12:11:17 Average server FPS: 24212.90 (measured interval: 10 s)
+12:11:27 Average server FPS: 24184.70 (measured interval: 10 s)
+12:11:37 Average server FPS: 24187.80 (measured interval: 10 s)
+12:11:47 Average server FPS: 24207.40 (measured interval: 10 s)
+12:11:57 Average server FPS: 24217.50 (measured interval: 10 s)
+12:12:07 Average server FPS: 24167.20 (measured interval: 10 s)
+12:12:17 Average server FPS: 24189.80 (measured interval: 10 s)
+12:12:27 Average server FPS: 24214.40 (measured interval: 10 s)
+12:12:37 Average server FPS: 24185.60 (measured interval: 10 s)
+12:12:47 Average server FPS: 24213.10 (measured interval: 10 s)
+12:12:57 Average server FPS: 24237.80 (measured interval: 10 s)
+12:13:07 Average server FPS: 24232.80 (measured interval: 10 s)
+12:13:17 Average server FPS: 24229.90 (measured interval: 10 s)
+12:13:27 Average server FPS: 24177.30 (measured interval: 10 s)
+12:13:37 Average server FPS: 24187.30 (measured interval: 10 s)
+12:13:47 Average server FPS: 24236.60 (measured interval: 10 s)
+12:13:57 Average server FPS: 24211.60 (measured interval: 10 s)
+12:14:07 Average server FPS: 24221.80 (measured interval: 10 s)
+12:14:17 Average server FPS: 24196.10 (measured interval: 10 s)
+12:14:27 Average server FPS: 24198.10 (measured interval: 10 s)
+12:14:37 Average server FPS: 24169.30 (measured interval: 10 s)
+12:14:47 Average server FPS: 24193.60 (measured interval: 10 s)
+12:14:57 Average server FPS: 24189.00 (measured interval: 10 s)
+12:15:07 Average server FPS: 24151.20 (measured interval: 10 s)
+12:15:17 Average server FPS: 24159.30 (measured interval: 10 s)
+12:15:27 Average server FPS: 24192.50 (measured interval: 10 s)
+12:15:37 Average server FPS: 24168.20 (measured interval: 10 s)
+12:15:47 Average server FPS: 24200.10 (measured interval: 10 s)
+12:15:57 Average server FPS: 24925.40 (measured interval: 10 s)
+12:16:07 Average server FPS: 24995.40 (measured interval: 10 s)
+12:16:17 Average server FPS: 24998.50 (measured interval: 10 s)
+12:16:27 Average server FPS: 25003.90 (measured interval: 10 s)
+12:16:37 Average server FPS: 25032.50 (measured interval: 10 s)
+12:16:47 Average server FPS: 25063.70 (measured interval: 10 s)
+12:16:57 Average server FPS: 25056.30 (measured interval: 10 s)
+12:17:07 Average server FPS: 24991.80 (measured interval: 10 s)
+12:17:17 Average server FPS: 25044.80 (measured interval: 10 s)
+12:17:27 Average server FPS: 25036.30 (measured interval: 10 s)
+12:17:37 Average server FPS: 24989.70 (measured interval: 10 s)
+12:17:47 Average server FPS: 25008.20 (measured interval: 10 s)
+12:17:57 Average server FPS: 24997.60 (measured interval: 10 s)
+12:18:07 Average server FPS: 24987.70 (measured interval: 10 s)
+12:18:17 Average server FPS: 24980.00 (measured interval: 10 s)
+12:18:27 Average server FPS: 24990.80 (measured interval: 10 s)
+12:18:37 Average server FPS: 25059.50 (measured interval: 10 s)
+12:18:47 Average server FPS: 25012.30 (measured interval: 10 s)
+12:18:57 Average server FPS: 24970.20 (measured interval: 10 s)
+12:19:07 Average server FPS: 24951.30 (measured interval: 10 s)
+12:19:17 Average server FPS: 24994.50 (measured interval: 10 s)
+12:19:27 Average server FPS: 24958.80 (measured interval: 10 s)
+12:19:37 Average server FPS: 24939.40 (measured interval: 10 s)
+12:19:47 Average server FPS: 24954.40 (measured interval: 10 s)
+12:19:57 Average server FPS: 24931.60 (measured interval: 10 s)
+12:20:07 Average server FPS: 24937.60 (measured interval: 10 s)
+12:20:17 Average server FPS: 25208.80 (measured interval: 10 s)
+12:20:27 Average server FPS: 25265.90 (measured interval: 10 s)
+12:20:37 Average server FPS: 25261.10 (measured interval: 10 s)
+12:20:47 Average server FPS: 25308.10 (measured interval: 10 s)
+12:20:57 Average server FPS: 25279.90 (measured interval: 10 s)
+12:21:07 Average server FPS: 25271.20 (measured interval: 10 s)
+12:21:17 Average server FPS: 25279.30 (measured interval: 10 s)
+12:21:27 Average server FPS: 25296.90 (measured interval: 10 s)
+12:21:37 Average server FPS: 25240.50 (measured interval: 10 s)
+12:21:47 Average server FPS: 25280.80 (measured interval: 10 s)
+12:21:57 Average server FPS: 25290.30 (measured interval: 10 s)
+12:22:07 Average server FPS: 25291.10 (measured interval: 10 s)
+12:22:17 Average server FPS: 25314.40 (measured interval: 10 s)
+12:22:27 Average server FPS: 25318.20 (measured interval: 10 s)
+12:22:37 Average server FPS: 25256.00 (measured interval: 10 s)
+12:22:47 Average server FPS: 25266.20 (measured interval: 10 s)
+12:22:57 Average server FPS: 25229.70 (measured interval: 10 s)
+12:23:07 Average server FPS: 25199.10 (measured interval: 10 s)
+12:23:17 Average server FPS: 25259.50 (measured interval: 10 s)
+12:23:27 Average server FPS: 25295.20 (measured interval: 10 s)
+12:23:37 Average server FPS: 25308.30 (measured interval: 10 s)
+12:23:47 Average server FPS: 25266.60 (measured interval: 10 s)
+12:23:57 Average server FPS: 25289.10 (measured interval: 10 s)
+12:24:07 Average server FPS: 25272.80 (measured interval: 10 s)
+12:24:17 Average server FPS: 25305.10 (measured interval: 10 s)
+12:24:27 Average server FPS: 25249.40 (measured interval: 10 s)
+12:24:37 Average server FPS: 25207.70 (measured interval: 10 s)
+12:24:47 Average server FPS: 25303.10 (measured interval: 10 s)
+12:24:57 Average server FPS: 25270.80 (measured interval: 10 s)
+12:25:07 Average server FPS: 25255.00 (measured interval: 10 s)
+12:25:17 Average server FPS: 25323.00 (measured interval: 10 s)
+12:25:27 Average server FPS: 25460.90 (measured interval: 10 s)
+12:25:37 Average server FPS: 25419.00 (measured interval: 10 s)
+12:25:47 Average server FPS: 25382.10 (measured interval: 10 s)
+12:25:57 Average server FPS: 25376.00 (measured interval: 10 s)
+12:26:07 Average server FPS: 25405.00 (measured interval: 10 s)
+12:26:17 Average server FPS: 25401.10 (measured interval: 10 s)
+12:26:27 Average server FPS: 25400.10 (measured interval: 10 s)
+12:26:37 Average server FPS: 25404.60 (measured interval: 10 s)
+12:26:47 Average server FPS: 25431.50 (measured interval: 10 s)
+12:26:57 Average server FPS: 25375.10 (measured interval: 10 s)
+12:27:07 Average server FPS: 25356.30 (measured interval: 10 s)
+12:27:17 Average server FPS: 25364.80 (measured interval: 10 s)
+12:27:27 Average server FPS: 25397.70 (measured interval: 10 s)
+12:27:37 Average server FPS: 25414.00 (measured interval: 10 s)
+12:27:47 Average server FPS: 25591.40 (measured interval: 10 s)
+12:27:57 Average server FPS: 25322.50 (measured interval: 10 s)
+12:28:07 Average server FPS: 25418.80 (measured interval: 10 s)
+12:28:17 Average server FPS: 25404.40 (measured interval: 10 s)
+12:28:27 Average server FPS: 25415.60 (measured interval: 10 s)
+12:28:37 Average server FPS: 25414.00 (measured interval: 10 s)
+12:28:47 Average server FPS: 25380.80 (measured interval: 10 s)
+12:28:57 Average server FPS: 25351.40 (measured interval: 10 s)
+12:29:07 Average server FPS: 25429.40 (measured interval: 10 s)
+12:29:17 Average server FPS: 25426.70 (measured interval: 10 s)
+12:29:27 Average server FPS: 25422.20 (measured interval: 10 s)
+12:29:37 Average server FPS: 25385.00 (measured interval: 10 s)
+12:29:47 Average server FPS: 25418.60 (measured interval: 10 s)
+12:29:57 Average server FPS: 25385.10 (measured interval: 10 s)
+12:30:07 Average server FPS: 25417.50 (measured interval: 10 s)
+12:30:17 Average server FPS: 25415.20 (measured interval: 10 s)
+12:30:27 Average server FPS: 25377.20 (measured interval: 10 s)
+12:30:27 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+12:30:37 Average server FPS: 25393.40 (measured interval: 10 s)
+12:30:47 Average server FPS: 25373.90 (measured interval: 10 s)
+12:30:57 Average server FPS: 25484.10 (measured interval: 10 s)
+12:31:07 Average server FPS: 25419.70 (measured interval: 10 s)
+12:31:17 Average server FPS: 25447.40 (measured interval: 10 s)
+12:31:27 Average server FPS: 25413.50 (measured interval: 10 s)
+12:31:37 Average server FPS: 25583.00 (measured interval: 10 s)
+12:31:47 Average server FPS: 25668.00 (measured interval: 10 s)
+12:31:57 Average server FPS: 25579.60 (measured interval: 10 s)
+12:32:07 Average server FPS: 25542.80 (measured interval: 10 s)
+12:32:17 Average server FPS: 25622.80 (measured interval: 10 s)
+12:32:27 Average server FPS: 25558.10 (measured interval: 10 s)
+12:32:37 Average server FPS: 25546.30 (measured interval: 10 s)
+12:32:47 Average server FPS: 25569.10 (measured interval: 10 s)
+12:32:57 Average server FPS: 25529.60 (measured interval: 10 s)
+12:33:07 Average server FPS: 25534.20 (measured interval: 10 s)
+12:33:17 Average server FPS: 25588.00 (measured interval: 10 s)
+12:33:27 Average server FPS: 25550.20 (measured interval: 10 s)
+12:33:37 Average server FPS: 25597.20 (measured interval: 10 s)
+12:33:47 Average server FPS: 25623.30 (measured interval: 10 s)
+12:33:57 Average server FPS: 25660.90 (measured interval: 10 s)
+12:34:07 Average server FPS: 25609.10 (measured interval: 10 s)
+12:34:17 Average server FPS: 25625.90 (measured interval: 10 s)
+12:34:27 Average server FPS: 25584.00 (measured interval: 10 s)
+12:34:37 Average server FPS: 25625.20 (measured interval: 10 s)
+12:34:47 Average server FPS: 25641.50 (measured interval: 10 s)
+12:34:57 Average server FPS: 25638.40 (measured interval: 10 s)
+12:35:07 Average server FPS: 25534.70 (measured interval: 10 s)
+12:35:17 Average server FPS: 25597.60 (measured interval: 10 s)
+12:35:27 Average server FPS: 25588.00 (measured interval: 10 s)
+12:35:37 Average server FPS: 25595.90 (measured interval: 10 s)
+12:35:47 Average server FPS: 25614.30 (measured interval: 10 s)
+12:35:57 Average server FPS: 25619.30 (measured interval: 10 s)
+12:36:07 Average server FPS: 25560.50 (measured interval: 10 s)
+12:36:17 Average server FPS: 25562.40 (measured interval: 10 s)
+12:36:27 Average server FPS: 25609.90 (measured interval: 10 s)
+12:36:37 Average server FPS: 25614.20 (measured interval: 10 s)
+12:36:47 Average server FPS: 25619.40 (measured interval: 10 s)
+12:36:57 Average server FPS: 25623.80 (measured interval: 10 s)
+12:37:07 Average server FPS: 25530.20 (measured interval: 10 s)
+12:37:17 Average server FPS: 25636.80 (measured interval: 10 s)
+12:37:27 Average server FPS: 25545.50 (measured interval: 10 s)
+12:37:37 Average server FPS: 25585.90 (measured interval: 10 s)
+12:37:47 Average server FPS: 25612.80 (measured interval: 10 s)
+12:37:57 Average server FPS: 25579.80 (measured interval: 10 s)
+12:38:07 Average server FPS: 25627.50 (measured interval: 10 s)
+12:38:17 Average server FPS: 25637.90 (measured interval: 10 s)
+12:38:27 Average server FPS: 25665.20 (measured interval: 10 s)
+12:38:37 Average server FPS: 25621.10 (measured interval: 10 s)
+12:38:47 Average server FPS: 25615.10 (measured interval: 10 s)
+12:38:57 Average server FPS: 25634.70 (measured interval: 10 s)
+12:39:07 Average server FPS: 25558.90 (measured interval: 10 s)
+12:39:17 Average server FPS: 25600.60 (measured interval: 10 s)
+12:39:27 Average server FPS: 25511.40 (measured interval: 10 s)
+12:39:37 Average server FPS: 25641.00 (measured interval: 10 s)
+12:39:47 Average server FPS: 25721.30 (measured interval: 10 s)
+12:39:57 Average server FPS: 25643.80 (measured interval: 10 s)
+12:40:07 Average server FPS: 25593.60 (measured interval: 10 s)
+12:40:17 Average server FPS: 25522.20 (measured interval: 10 s)
+12:40:27 Average server FPS: 25597.00 (measured interval: 10 s)
+12:40:37 Average server FPS: 25610.00 (measured interval: 10 s)
+12:40:47 Average server FPS: 25568.30 (measured interval: 10 s)
+12:40:57 Average server FPS: 25681.80 (measured interval: 10 s)
+12:41:07 Average server FPS: 25620.50 (measured interval: 10 s)
+12:41:17 Average server FPS: 25886.40 (measured interval: 10 s)
+12:41:27 Average server FPS: 25438.20 (measured interval: 10 s)
+12:41:37 Average server FPS: 25602.70 (measured interval: 10 s)
+12:41:47 Average server FPS: 25641.80 (measured interval: 10 s)
+12:41:57 Average server FPS: 25616.90 (measured interval: 10 s)
+12:42:07 Average server FPS: 25590.00 (measured interval: 10 s)
+12:42:17 Average server FPS: 25600.70 (measured interval: 10 s)
+12:42:27 Average server FPS: 25651.50 (measured interval: 10 s)
+12:42:37 Average server FPS: 25602.60 (measured interval: 10 s)
+12:42:47 Average server FPS: 25665.70 (measured interval: 10 s)
+12:42:57 Average server FPS: 25637.50 (measured interval: 10 s)
+12:43:07 Average server FPS: 25615.50 (measured interval: 10 s)
+12:43:17 Average server FPS: 25617.90 (measured interval: 10 s)
+12:43:27 Average server FPS: 25628.30 (measured interval: 10 s)
+12:43:37 Average server FPS: 25619.40 (measured interval: 10 s)
+12:43:47 Average server FPS: 25620.90 (measured interval: 10 s)
+12:43:57 Average server FPS: 25567.60 (measured interval: 10 s)
+12:44:07 Average server FPS: 25442.20 (measured interval: 10 s)
+12:44:17 Average server FPS: 25580.70 (measured interval: 10 s)
+12:44:27 Average server FPS: 25427.70 (measured interval: 10 s)
+12:44:37 Average server FPS: 25455.70 (measured interval: 10 s)
+12:44:47 Average server FPS: 25501.40 (measured interval: 10 s)
+12:44:57 Average server FPS: 25579.60 (measured interval: 10 s)
+12:45:07 Average server FPS: 25490.60 (measured interval: 10 s)
+12:45:17 Average server FPS: 25550.70 (measured interval: 10 s)
+12:45:27 Average server FPS: 25520.50 (measured interval: 10 s)
+12:45:37 Average server FPS: 25447.50 (measured interval: 10 s)
+12:45:47 Average server FPS: 25470.90 (measured interval: 10 s)
+12:45:57 Average server FPS: 25452.20 (measured interval: 10 s)
+12:46:07 Average server FPS: 25428.90 (measured interval: 10 s)
+12:46:17 Average server FPS: 25371.30 (measured interval: 10 s)
+12:46:27 Average server FPS: 25423.00 (measured interval: 10 s)
+12:46:37 Average server FPS: 25545.10 (measured interval: 10 s)
+12:46:47 Average server FPS: 25378.90 (measured interval: 10 s)
+12:46:57 Average server FPS: 25563.70 (measured interval: 10 s)
+12:47:07 Average server FPS: 25581.10 (measured interval: 10 s)
+12:47:17 Average server FPS: 25504.20 (measured interval: 10 s)
+12:47:27 Average server FPS: 25620.60 (measured interval: 10 s)
+12:47:37 Average server FPS: 25436.60 (measured interval: 10 s)
+12:47:47 Average server FPS: 25535.00 (measured interval: 10 s)
+12:47:57 Average server FPS: 25585.20 (measured interval: 10 s)
+12:48:07 Average server FPS: 25400.60 (measured interval: 10 s)
+12:48:17 Average server FPS: 25518.30 (measured interval: 10 s)
+12:48:27 Average server FPS: 25564.00 (measured interval: 10 s)
+12:48:37 Average server FPS: 25430.70 (measured interval: 10 s)
+12:48:47 Average server FPS: 25461.90 (measured interval: 10 s)
+12:48:57 Average server FPS: 25577.80 (measured interval: 10 s)
+12:49:07 Average server FPS: 25439.40 (measured interval: 10 s)
+12:49:17 Average server FPS: 25450.80 (measured interval: 10 s)
+12:49:27 Average server FPS: 25558.90 (measured interval: 10 s)
+12:49:37 Average server FPS: 25594.10 (measured interval: 10 s)
+12:49:47 Average server FPS: 25470.40 (measured interval: 10 s)
+12:49:57 Average server FPS: 25483.70 (measured interval: 10 s)
+12:50:07 Average server FPS: 25510.70 (measured interval: 10 s)
+12:50:17 Average server FPS: 25524.00 (measured interval: 10 s)
+12:50:27 Average server FPS: 25462.00 (measured interval: 10 s)
+12:50:37 Average server FPS: 25601.00 (measured interval: 10 s)
+12:50:47 Average server FPS: 25545.80 (measured interval: 10 s)
+12:50:57 Average server FPS: 25494.60 (measured interval: 10 s)
+12:51:07 Average server FPS: 25566.00 (measured interval: 10 s)
+12:51:17 Average server FPS: 25552.40 (measured interval: 10 s)
+12:51:27 Average server FPS: 25445.70 (measured interval: 10 s)
+12:51:37 Average server FPS: 25598.30 (measured interval: 10 s)
+12:51:47 Average server FPS: 25432.50 (measured interval: 10 s)
+12:51:57 Average server FPS: 25469.90 (measured interval: 10 s)
+12:52:07 Average server FPS: 25424.00 (measured interval: 10 s)
+12:52:17 Average server FPS: 25535.20 (measured interval: 10 s)
+12:52:27 Average server FPS: 25461.40 (measured interval: 10 s)
+12:52:37 Average server FPS: 25425.70 (measured interval: 10 s)
+12:52:47 Average server FPS: 25538.00 (measured interval: 10 s)
+12:52:57 Average server FPS: 25483.80 (measured interval: 10 s)
+12:53:07 Average server FPS: 25506.60 (measured interval: 10 s)
+12:53:17 Average server FPS: 25398.20 (measured interval: 10 s)
+12:53:27 Average server FPS: 25445.30 (measured interval: 10 s)
+12:53:37 Average server FPS: 25378.20 (measured interval: 10 s)
+12:53:47 Average server FPS: 25418.30 (measured interval: 10 s)
+12:53:57 Average server FPS: 25454.50 (measured interval: 10 s)
+12:54:07 Average server FPS: 25596.80 (measured interval: 10 s)
+12:54:17 Average server FPS: 25585.10 (measured interval: 10 s)
+12:54:27 Average server FPS: 25585.20 (measured interval: 10 s)
+12:54:37 Average server FPS: 25566.20 (measured interval: 10 s)
+12:54:47 Average server FPS: 25628.90 (measured interval: 10 s)
+12:54:57 Average server FPS: 25417.50 (measured interval: 10 s)
+12:55:07 Average server FPS: 25562.10 (measured interval: 10 s)
+12:55:17 Average server FPS: 25544.70 (measured interval: 10 s)
+12:55:27 Average server FPS: 25621.60 (measured interval: 10 s)
+12:55:37 Average server FPS: 25531.90 (measured interval: 10 s)
+12:55:47 Average server FPS: 25590.70 (measured interval: 10 s)
+12:55:57 Average server FPS: 25552.20 (measured interval: 10 s)
+12:56:07 Average server FPS: 25563.40 (measured interval: 10 s)
+12:56:17 Average server FPS: 25601.20 (measured interval: 10 s)
+12:56:27 Average server FPS: 25582.50 (measured interval: 10 s)
+12:56:37 Average server FPS: 25573.60 (measured interval: 10 s)
+12:56:47 Average server FPS: 25627.70 (measured interval: 10 s)
+12:56:57 Average server FPS: 25549.20 (measured interval: 10 s)
+12:57:07 Average server FPS: 25573.70 (measured interval: 10 s)
+12:57:17 Average server FPS: 25598.60 (measured interval: 10 s)
+12:57:27 Average server FPS: 25606.90 (measured interval: 10 s)
+12:57:37 Average server FPS: 25583.90 (measured interval: 10 s)
+12:57:47 Average server FPS: 25561.70 (measured interval: 10 s)
+12:57:57 Average server FPS: 25583.60 (measured interval: 10 s)
+12:58:07 Average server FPS: 25589.70 (measured interval: 10 s)
+12:58:17 Average server FPS: 25593.20 (measured interval: 10 s)
+12:58:27 Average server FPS: 25618.00 (measured interval: 10 s)
+12:58:37 Average server FPS: 25644.80 (measured interval: 10 s)
+12:58:47 Average server FPS: 25598.70 (measured interval: 10 s)
+12:58:57 Average server FPS: 25572.00 (measured interval: 10 s)
+12:59:07 Average server FPS: 25602.10 (measured interval: 10 s)
+12:59:17 Average server FPS: 25664.50 (measured interval: 10 s)
+12:59:27 Average server FPS: 25616.60 (measured interval: 10 s)
+12:59:37 Average server FPS: 25616.00 (measured interval: 10 s)
+12:59:47 Average server FPS: 25622.20 (measured interval: 10 s)
+12:59:57 Average server FPS: 25614.00 (measured interval: 10 s)
+13:00:07 Average server FPS: 25637.20 (measured interval: 10 s)
+13:00:17 Average server FPS: 25607.60 (measured interval: 10 s)
+13:00:27 Average server FPS: 25612.60 (measured interval: 10 s)
+13:00:27 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+13:00:37 Average server FPS: 25625.20 (measured interval: 10 s)
+13:00:47 Average server FPS: 25613.70 (measured interval: 10 s)
+13:00:57 Average server FPS: 25596.00 (measured interval: 10 s)
+13:01:07 Average server FPS: 25537.40 (measured interval: 10 s)
+13:01:17 Average server FPS: 25612.20 (measured interval: 10 s)
+13:01:27 Average server FPS: 25588.60 (measured interval: 10 s)
+13:01:37 Average server FPS: 25595.60 (measured interval: 10 s)
+13:01:47 Average server FPS: 25629.30 (measured interval: 10 s)
+13:01:57 Average server FPS: 25577.90 (measured interval: 10 s)
+13:02:07 Average server FPS: 25559.40 (measured interval: 10 s)
+13:02:17 Average server FPS: 25573.30 (measured interval: 10 s)
+13:02:27 Average server FPS: 25567.00 (measured interval: 10 s)
+13:02:37 Average server FPS: 25508.80 (measured interval: 10 s)
+13:02:47 Average server FPS: 25541.50 (measured interval: 10 s)
+13:02:57 Average server FPS: 25558.60 (measured interval: 10 s)
+13:03:07 Average server FPS: 25504.10 (measured interval: 10 s)
+13:03:17 Average server FPS: 25575.30 (measured interval: 10 s)
+13:03:27 Average server FPS: 25621.10 (measured interval: 10 s)
+13:03:37 Average server FPS: 25573.30 (measured interval: 10 s)
+13:03:47 Average server FPS: 25578.10 (measured interval: 10 s)
+13:03:57 Average server FPS: 25622.80 (measured interval: 10 s)
+13:04:07 Average server FPS: 25578.90 (measured interval: 10 s)
+13:04:17 Average server FPS: 25624.00 (measured interval: 10 s)
+13:04:27 Average server FPS: 25623.90 (measured interval: 10 s)
+13:04:37 Average server FPS: 25588.50 (measured interval: 10 s)
+13:04:47 Average server FPS: 25599.60 (measured interval: 10 s)
+13:04:57 Average server FPS: 25603.40 (measured interval: 10 s)
+13:05:07 Average server FPS: 25615.50 (measured interval: 10 s)
+13:05:17 Average server FPS: 25598.80 (measured interval: 10 s)
+13:05:27 Average server FPS: 25602.40 (measured interval: 10 s)
+13:05:37 Average server FPS: 25534.10 (measured interval: 10 s)
+13:05:47 Average server FPS: 25639.40 (measured interval: 10 s)
+13:05:57 Average server FPS: 25595.80 (measured interval: 10 s)
+13:06:07 Average server FPS: 25562.50 (measured interval: 10 s)
+13:06:17 Average server FPS: 25540.70 (measured interval: 10 s)
+13:06:27 Average server FPS: 25524.90 (measured interval: 10 s)
+13:06:37 Average server FPS: 25586.20 (measured interval: 10 s)
+13:06:47 Average server FPS: 25584.70 (measured interval: 10 s)
+13:06:57 Average server FPS: 25589.10 (measured interval: 10 s)
+13:07:07 Average server FPS: 25286.90 (measured interval: 10 s)
+13:07:17 Average server FPS: 21306.20 (measured interval: 10 s)
+13:07:27 Average server FPS: 24243.50 (measured interval: 10 s)
+13:07:37 Average server FPS: 24112.40 (measured interval: 10 s)
+13:07:47 Average server FPS: 25089.60 (measured interval: 10 s)
+13:07:57 Average server FPS: 24078.00 (measured interval: 10 s)
+13:08:07 Average server FPS: 24090.10 (measured interval: 10 s)
+13:08:17 Average server FPS: 24199.40 (measured interval: 10 s)
+13:08:27 Average server FPS: 24220.60 (measured interval: 10 s)
+13:08:37 Average server FPS: 23986.60 (measured interval: 10 s)
+13:08:47 Average server FPS: 24180.30 (measured interval: 10 s)
+13:08:57 Average server FPS: 24128.40 (measured interval: 10 s)
+13:09:07 Average server FPS: 24096.90 (measured interval: 10 s)
+13:09:17 Average server FPS: 24140.20 (measured interval: 10 s)
+13:09:27 Average server FPS: 24159.60 (measured interval: 10 s)
+13:09:37 Average server FPS: 24153.70 (measured interval: 10 s)
+13:09:47 Average server FPS: 24196.60 (measured interval: 10 s)
+13:09:57 Average server FPS: 24206.60 (measured interval: 10 s)
+13:10:07 Average server FPS: 24209.30 (measured interval: 10 s)
+13:10:17 Average server FPS: 24191.80 (measured interval: 10 s)
+13:10:27 Average server FPS: 24325.40 (measured interval: 10 s)
+13:10:37 Average server FPS: 25248.50 (measured interval: 10 s)
+13:10:47 Average server FPS: 25325.00 (measured interval: 10 s)
+13:10:57 Average server FPS: 25365.70 (measured interval: 10 s)
+13:11:07 Average server FPS: 25333.60 (measured interval: 10 s)
+13:11:17 Average server FPS: 25328.50 (measured interval: 10 s)
+13:11:27 Average server FPS: 25296.50 (measured interval: 10 s)
+13:11:37 Average server FPS: 25211.40 (measured interval: 10 s)
+13:11:47 Average server FPS: 25270.60 (measured interval: 10 s)
+13:11:57 Average server FPS: 25276.30 (measured interval: 10 s)
+13:12:07 Average server FPS: 25317.20 (measured interval: 10 s)
+13:12:17 Average server FPS: 25329.70 (measured interval: 10 s)
+13:12:27 Average server FPS: 25344.10 (measured interval: 10 s)
+13:12:37 Average server FPS: 24740.20 (measured interval: 10 s)
+13:12:47 Average server FPS: 24213.10 (measured interval: 10 s)
+13:12:57 Average server FPS: 24140.70 (measured interval: 10 s)
+13:13:07 Average server FPS: 24175.20 (measured interval: 10 s)
+13:13:17 Average server FPS: 24166.10 (measured interval: 10 s)
+13:13:27 Average server FPS: 24069.30 (measured interval: 10 s)
+13:13:37 Average server FPS: 24222.90 (measured interval: 10 s)
+13:13:47 Average server FPS: 24224.20 (measured interval: 10 s)
+13:13:57 Average server FPS: 24226.90 (measured interval: 10 s)
+13:14:07 Average server FPS: 24237.60 (measured interval: 10 s)
+13:14:17 Average server FPS: 24250.00 (measured interval: 10 s)
+13:14:27 Average server FPS: 24355.10 (measured interval: 10 s)
+13:14:37 Average server FPS: 25333.50 (measured interval: 10 s)
+13:14:47 Average server FPS: 25270.70 (measured interval: 10 s)
+13:14:57 Average server FPS: 25284.00 (measured interval: 10 s)
+13:15:07 Average server FPS: 25313.00 (measured interval: 10 s)
+13:15:17 Average server FPS: 25310.40 (measured interval: 10 s)
+13:15:27 Average server FPS: 25342.90 (measured interval: 10 s)
+13:15:37 Average server FPS: 25298.00 (measured interval: 10 s)
+13:15:47 Average server FPS: 25267.50 (measured interval: 10 s)
+13:15:57 Average server FPS: 25233.80 (measured interval: 10 s)
+13:16:07 Average server FPS: 25219.00 (measured interval: 10 s)
+13:16:17 Average server FPS: 25114.10 (measured interval: 10 s)
+13:16:27 Average server FPS: 24067.90 (measured interval: 10 s)
+13:16:37 Average server FPS: 24068.00 (measured interval: 10 s)
+13:16:47 Average server FPS: 24094.70 (measured interval: 10 s)
+13:16:57 Average server FPS: 24077.80 (measured interval: 10 s)
+13:17:07 Average server FPS: 24004.20 (measured interval: 10 s)
+13:17:17 Average server FPS: 24086.70 (measured interval: 10 s)
+13:17:27 Average server FPS: 24145.20 (measured interval: 10 s)
+13:17:37 Average server FPS: 24197.10 (measured interval: 10 s)
+13:17:47 Average server FPS: 24166.50 (measured interval: 10 s)
+13:17:57 Average server FPS: 24173.50 (measured interval: 10 s)
+13:18:07 Average server FPS: 24143.40 (measured interval: 10 s)
+13:18:17 Average server FPS: 24142.40 (measured interval: 10 s)
+13:18:27 Average server FPS: 24229.30 (measured interval: 10 s)
+13:18:37 Average server FPS: 24018.90 (measured interval: 10 s)
+13:18:47 Average server FPS: 24213.70 (measured interval: 10 s)
+13:18:57 Average server FPS: 24201.60 (measured interval: 10 s)
+13:19:07 Average server FPS: 24169.50 (measured interval: 10 s)
+13:19:17 Average server FPS: 24197.10 (measured interval: 10 s)
+13:19:27 Average server FPS: 24214.20 (measured interval: 10 s)
+13:19:37 Average server FPS: 24121.50 (measured interval: 10 s)
+13:19:47 Average server FPS: 24134.60 (measured interval: 10 s)
+13:19:57 Average server FPS: 24122.70 (measured interval: 10 s)
+13:20:07 Average server FPS: 24176.80 (measured interval: 10 s)
+13:20:17 Average server FPS: 24155.30 (measured interval: 10 s)
+13:20:27 Average server FPS: 24102.10 (measured interval: 10 s)
+13:20:37 Average server FPS: 24116.90 (measured interval: 10 s)
+13:20:47 Average server FPS: 24122.10 (measured interval: 10 s)
+13:20:57 Average server FPS: 24157.70 (measured interval: 10 s)
+13:21:07 Average server FPS: 24131.40 (measured interval: 10 s)
+13:21:17 Average server FPS: 24071.60 (measured interval: 10 s)
+13:21:27 Average server FPS: 24110.00 (measured interval: 10 s)
+13:21:37 Average server FPS: 24071.60 (measured interval: 10 s)
+13:21:47 Average server FPS: 24116.40 (measured interval: 10 s)
+13:21:57 Average server FPS: 24120.20 (measured interval: 10 s)
+13:22:07 Average server FPS: 24037.90 (measured interval: 10 s)
+13:22:17 Average server FPS: 24097.20 (measured interval: 10 s)
+13:22:27 Average server FPS: 24081.90 (measured interval: 10 s)
+13:22:37 Average server FPS: 24071.70 (measured interval: 10 s)
+13:22:47 Average server FPS: 24070.70 (measured interval: 10 s)
+13:22:57 Average server FPS: 24106.40 (measured interval: 10 s)
+13:23:07 Average server FPS: 24135.70 (measured interval: 10 s)
+13:23:17 Average server FPS: 24158.10 (measured interval: 10 s)
+13:23:27 Average server FPS: 24184.40 (measured interval: 10 s)
+13:23:37 Average server FPS: 24110.50 (measured interval: 10 s)
+13:23:47 Average server FPS: 24172.80 (measured interval: 10 s)
+13:23:57 Average server FPS: 24101.70 (measured interval: 10 s)
+13:24:07 Average server FPS: 24074.00 (measured interval: 10 s)
+13:24:17 Average server FPS: 24047.80 (measured interval: 10 s)
+13:24:27 Average server FPS: 24111.10 (measured interval: 10 s)
+13:24:37 Average server FPS: 24023.20 (measured interval: 10 s)
+13:24:47 Average server FPS: 24098.00 (measured interval: 10 s)
+13:24:57 Average server FPS: 25227.20 (measured interval: 10 s)
+13:25:07 Average server FPS: 25215.10 (measured interval: 10 s)
+13:25:17 Average server FPS: 24798.30 (measured interval: 10 s)
+13:25:27 Average server FPS: 24082.70 (measured interval: 10 s)
+13:25:37 Average server FPS: 24075.60 (measured interval: 10 s)
+13:25:47 Average server FPS: 24049.10 (measured interval: 10 s)
+13:25:57 Average server FPS: 24092.10 (measured interval: 10 s)
+13:26:07 Average server FPS: 24037.00 (measured interval: 10 s)
+13:26:17 Average server FPS: 23948.20 (measured interval: 10 s)
+13:26:27 Average server FPS: 23830.60 (measured interval: 10 s)
+13:26:37 Average server FPS: 24000.10 (measured interval: 10 s)
+13:26:47 Average server FPS: 24036.50 (measured interval: 10 s)
+13:26:57 Average server FPS: 24008.20 (measured interval: 10 s)
+13:27:07 Average server FPS: 23951.30 (measured interval: 10 s)
+13:27:17 Average server FPS: 24510.50 (measured interval: 10 s)
+13:27:27 Average server FPS: 24664.30 (measured interval: 10 s)
+13:27:37 Average server FPS: 24088.00 (measured interval: 10 s)
+13:27:47 Average server FPS: 24083.90 (measured interval: 10 s)
+13:27:57 Average server FPS: 24077.90 (measured interval: 10 s)
+13:28:07 Average server FPS: 24055.60 (measured interval: 10 s)
+13:28:17 Average server FPS: 24064.30 (measured interval: 10 s)
+13:28:27 Average server FPS: 21871.40 (measured interval: 10 s)
+13:28:37 Average server FPS: 23662.50 (measured interval: 10 s)
+13:28:47 Average server FPS: 24061.50 (measured interval: 10 s)
+13:28:57 Average server FPS: 24087.80 (measured interval: 10 s)
+13:29:07 Average server FPS: 24084.80 (measured interval: 10 s)
+13:29:17 Average server FPS: 24113.80 (measured interval: 10 s)
+13:29:27 Average server FPS: 24128.40 (measured interval: 10 s)
+13:29:37 Average server FPS: 24086.00 (measured interval: 10 s)
+13:29:47 Average server FPS: 24089.00 (measured interval: 10 s)
+13:29:57 Average server FPS: 24059.00 (measured interval: 10 s)
+13:30:07 Average server FPS: 24023.20 (measured interval: 10 s)
+13:30:17 Average server FPS: 24076.50 (measured interval: 10 s)
+13:30:27 Average server FPS: 24029.10 (measured interval: 10 s)
+13:30:27 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+13:30:37 Average server FPS: 23845.70 (measured interval: 10 s)
+13:30:47 Average server FPS: 23845.30 (measured interval: 10 s)
+13:30:57 Average server FPS: 23968.70 (measured interval: 10 s)
+13:31:07 Average server FPS: 23978.50 (measured interval: 10 s)
+13:31:17 Average server FPS: 24092.90 (measured interval: 10 s)
+13:31:27 Average server FPS: 23919.90 (measured interval: 10 s)
+13:31:37 Average server FPS: 23823.30 (measured interval: 10 s)
+13:31:47 Average server FPS: 23808.10 (measured interval: 10 s)
+13:31:57 Average server FPS: 23799.60 (measured interval: 10 s)
+13:32:07 Average server FPS: 23916.30 (measured interval: 10 s)
+13:32:17 Average server FPS: 24024.70 (measured interval: 10 s)
+13:32:27 Average server FPS: 23953.80 (measured interval: 10 s)
+13:32:37 Average server FPS: 23969.60 (measured interval: 10 s)
+13:32:47 Average server FPS: 23980.20 (measured interval: 10 s)
+13:32:57 Average server FPS: 23903.30 (measured interval: 10 s)
+13:33:07 Average server FPS: 23960.00 (measured interval: 10 s)
+13:33:17 Average server FPS: 24047.30 (measured interval: 10 s)
+13:33:21 JohnWick benutzt modifizierte Daten-Datei
+13:33:21 [Login]: Adding player JohnWick (20332085) to login queue at position 0
+13:33:21 [LoginMachine]: Add player JohnWick (20332085 188.23.186.212:54500)
+13:33:21 [StateMachine]: Player JohnWick (dpnid 20332085 uid ) Entering AuthPlayerLoginState
+13:33:21 [StateMachine]: Player JohnWick (dpnid 20332085 uid ) State Error (AuthPlayerLoginState)
+13:33:21 Player Unknown (20332085) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (C:\Program Files (x86)\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:33:21 [StateMachine]: Kick player JohnWick (dpnid 20332085 uid ) State AuthPlayerLoginState
+13:33:21 [Disconnect]: Client 20332085 early disconnect
+13:33:21 [Disconnect]: No identity -> remove player info 20332085 
+13:33:21 [Disconnect]: DisconnectPlayerFinish 20332085
+13:33:21 [Disconnect]: Remove player info 20332085
+13:33:21 [Disconnect]: Player destroy 20332085 
+13:33:21 Spieler JohnWick getrennt.
+13:33:27 Average server FPS: 24007.70 (measured interval: 10 s)
+13:33:37 Average server FPS: 21797.60 (measured interval: 10 s)
+13:33:47 Average server FPS: 20909.70 (measured interval: 10 s)
+13:33:57 Average server FPS: 23940.10 (measured interval: 10 s)
+13:34:07 Average server FPS: 23912.90 (measured interval: 10 s)
+13:34:17 Average server FPS: 24564.50 (measured interval: 10 s)
+13:34:27 Average server FPS: 24436.90 (measured interval: 10 s)
+13:34:37 Average server FPS: 23843.90 (measured interval: 10 s)
+13:34:47 Average server FPS: 23934.30 (measured interval: 10 s)
+13:34:49 [Login]: Adding player JohnWick (17884204) to login queue at position 0
+13:34:49 [LoginMachine]: Add player JohnWick (17884204 188.23.186.212:64524)
+13:34:49 [StateMachine]: Player JohnWick (dpnid 17884204 uid ) Entering AuthPlayerLoginState
+13:34:49 BattlEye Server: Player #0 JohnWick (188.23.186.212:64524) connected
+13:34:49 Spieler JohnWick verbindet.
+13:34:49 [StateMachine]: Player JohnWick (dpnid 17884204 uid ) Entering WaitAuthPlayerLoginState
+13:34:49 BattlEye Server: Connected to BE Master
+13:34:51 BattlEye Server: Player #0 JohnWick - BE GUID: 3136185f8ab4f601875da476f9a00dbb
+13:34:52 BattlEye Server: Verified GUID (3136185f8ab4f601875da476f9a00dbb) of player #0 JohnWick
+13:34:52 Spieler JohnWick  (ID = aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) verbunden.
+13:34:52 Player "JohnWick"(steamID=76561197998690788) is connected
+13:34:52 [StateMachine]: Player JohnWick (dpnid 17884204 uid ) Entering WaitPlayerAssignedLoginState
+13:34:52 [StateMachine]: Player JohnWick (dpnid 17884204 uid ) Entering PlayerAssignedLoginState
+13:34:52 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBGetLoginTimeLoginState
+13:34:52 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBWaitLoginTimeLoginState
+13:34:54 [IdleMode] Leaving OUT
+13:34:57 Average server FPS: 23047.60 (measured interval: 10 s)
+13:35:07 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBGetCharacterLoginState
+13:35:07 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering CreateNetObjectsLoginState
+13:35:07 Player JohnWick dpid=17884204 at pos (14202.3, 11.9, 11610.0) 
+13:35:07 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering PreloadCamLoginState
+13:35:07 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering WaitPreloadCamLoginState
+13:35:07 Average server FPS: 22880.80 (measured interval: 10 s)
+13:35:15 [StateMachine]: Player JohnWick (dpnid 17884204 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering GetLoadedCharLoginState
+13:35:16 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 17884204
+    uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=
+13:35:17 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:35:17 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Mag_SSG82_5rnd"
+13:35:17 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "CanvasBag_Medical"
+13:35:17 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "CanvasBag_Medical"
+13:35:17 Average server FPS: 19430.60 (measured interval: 10 s)
+13:35:20 BattlEye Server: RCon admin #0: (To JohnWick) Welcome on AfterLife Vanilla +
+13:35:27 Average server FPS: 16201.80 (measured interval: 10 s)
+13:35:37 Average server FPS: 17000.70 (measured interval: 10 s)
+13:35:44 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "Glock19"
+13:35:47 Average server FPS: 15738.60 (measured interval: 10 s)
+13:35:50 D890 benutzt modifizierte Daten-Datei
+13:35:50 [Login]: Adding player D890 (15588337) to login queue at position 0
+13:35:50 [LoginMachine]: Add player D890 (15588337 81.28.134.101:59381)
+13:35:50 [StateMachine]: Player D890 (dpnid 15588337 uid ) Entering AuthPlayerLoginState
+13:35:51 [StateMachine]: Player D890 (dpnid 15588337 uid ) State Error (AuthPlayerLoginState)
+13:35:51 Player Unknown (15588337) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:35:51 [StateMachine]: Kick player D890 (dpnid 15588337 uid ) State AuthPlayerLoginState
+13:35:51 [Disconnect]: Client 15588337 early disconnect
+13:35:51 [Disconnect]: No identity -> remove player info 15588337 
+13:35:51 [Disconnect]: DisconnectPlayerFinish 15588337
+13:35:51 [Disconnect]: Remove player info 15588337
+13:35:51 [Disconnect]: Player destroy 15588337 
+13:35:51 Spieler D890 getrennt.
+13:35:57 Average server FPS: 16896.40 (measured interval: 10 s)
+13:36:07 Average server FPS: 16835.90 (measured interval: 10 s)
+13:36:10 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:36:10 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Mag_SSG82_5rnd"
+13:36:17 Average server FPS: 16828.30 (measured interval: 10 s)
+13:36:27 Average server FPS: 16888.60 (measured interval: 10 s)
+13:36:37 Average server FPS: 16925.10 (measured interval: 10 s)
+13:36:47 Average server FPS: 16046.40 (measured interval: 10 s)
+13:36:57 Average server FPS: 16818.90 (measured interval: 10 s)
+13:37:07 Average server FPS: 16724.50 (measured interval: 10 s)
+13:37:17 Average server FPS: 16811.80 (measured interval: 10 s)
+13:37:21 D890 benutzt modifizierte Daten-Datei
+13:37:21 [Login]: Adding player D890 (16047483) to login queue at position 0
+13:37:21 [LoginMachine]: Add player D890 (16047483 81.28.134.101:61361)
+13:37:21 [StateMachine]: Player D890 (dpnid 16047483 uid ) Entering AuthPlayerLoginState
+13:37:21 [StateMachine]: Player D890 (dpnid 16047483 uid ) State Error (AuthPlayerLoginState)
+13:37:21 Player Unknown (16047483) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:37:21 [StateMachine]: Kick player D890 (dpnid 16047483 uid ) State AuthPlayerLoginState
+13:37:21 [Disconnect]: Client 16047483 early disconnect
+13:37:21 [Disconnect]: No identity -> remove player info 16047483 
+13:37:21 [Disconnect]: DisconnectPlayerFinish 16047483
+13:37:21 [Disconnect]: Remove player info 16047483
+13:37:21 [Disconnect]: Player destroy 16047483 
+13:37:21 Spieler D890 getrennt.
+13:37:27 Average server FPS: 16812.80 (measured interval: 10 s)
+13:37:37 Average server FPS: 16856.80 (measured interval: 10 s)
+13:37:47 Average server FPS: 16808.30 (measured interval: 10 s)
+13:37:57 Average server FPS: 16760.10 (measured interval: 10 s)
+13:37:58 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "ParamedicJacket_Blue"
+13:38:07 Average server FPS: 16277.10 (measured interval: 10 s)
+13:38:17 Average server FPS: 16726.60 (measured interval: 10 s)
+13:38:25 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:38:27 Average server FPS: 16575.60 (measured interval: 10 s)
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban1_Police_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban2_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+13:38:28 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed02_aban2_Police_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+13:38:37 Average server FPS: 16413.50 (measured interval: 10 s)
+13:38:47 Average server FPS: 16620.50 (measured interval: 10 s)
+13:38:52 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:38:52 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Mag_SSG82_5rnd"
+13:38:57 Average server FPS: 16252.00 (measured interval: 10 s)
+13:39:07 Average server FPS: 16628.40 (measured interval: 10 s)
+13:39:10 [Disconnect]: Start script disconnect 17884204 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+13:39:14 [Disconnect]: Client 17884204 disconnecting
+13:39:14 [Disconnect]: Client 17884204 early disconnect
+13:39:14 [Disconnect]: Start script disconnect 17884204 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+13:39:15 [Disconnect]: Remove player info 17884204
+13:39:15 [Disconnect]: Player destroy 17884204 
+13:39:15 Spieler JohnWick getrennt.
+13:39:15 BattlEye Server: Player #0 JohnWick disconnected
+13:39:17 Average server FPS: 17987.20 (measured interval: 10 s)
+13:39:19 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:39:25 [Disconnect]: Finish script disconnect -1 (aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=)
+13:39:27 Average server FPS: 21928.30 (measured interval: 10 s)
+13:39:37 Average server FPS: 22311.70 (measured interval: 10 s)
+13:39:46 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:39:47 Average server FPS: 22282.30 (measured interval: 10 s)
+13:39:57 Average server FPS: 22242.80 (measured interval: 10 s)
+13:40:07 Average server FPS: 22291.20 (measured interval: 10 s)
+13:40:08 [Login]: Adding player D890 (16244129) to login queue at position 0
+13:40:08 [LoginMachine]: Add player D890 (16244129 81.28.134.101:49836)
+13:40:08 [StateMachine]: Player D890 (dpnid 16244129 uid ) Entering AuthPlayerLoginState
+13:40:08 [StateMachine]: Player D890 (dpnid 16244129 uid ) State Error (AuthPlayerLoginState)
+13:40:08 Player Unknown (16244129) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:40:08 [StateMachine]: Kick player D890 (dpnid 16244129 uid ) State AuthPlayerLoginState
+13:40:08 [Disconnect]: Client 16244129 early disconnect
+13:40:08 [Disconnect]: No identity -> remove player info 16244129 
+13:40:08 [Disconnect]: DisconnectPlayerFinish 16244129
+13:40:08 [Disconnect]: Remove player info 16244129
+13:40:08 [Disconnect]: Player destroy 16244129 
+13:40:08 Spieler D890 getrennt.
+13:40:13 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:40:17 Average server FPS: 22362.30 (measured interval: 10 s)
+13:40:24 [IdleMode] Entering IN - save processed
+13:40:27 Average server FPS: 22273.00 (measured interval: 10 s)
+13:40:37 Average server FPS: 22294.10 (measured interval: 10 s)
+13:40:47 Average server FPS: 22344.10 (measured interval: 10 s)
+13:40:57 Average server FPS: 22418.00 (measured interval: 10 s)
+13:41:07 Average server FPS: 22352.60 (measured interval: 10 s)
+13:41:17 Average server FPS: 22345.20 (measured interval: 10 s)
+13:41:27 Average server FPS: 22232.70 (measured interval: 10 s)
+13:41:37 Average server FPS: 21441.40 (measured interval: 10 s)
+13:41:47 Average server FPS: 22308.20 (measured interval: 10 s)
+13:41:54 D890 benutzt modifizierte Daten-Datei
+13:41:54 [Login]: Adding player D890 (16148457) to login queue at position 0
+13:41:54 [LoginMachine]: Add player D890 (16148457 81.28.134.101:50765)
+13:41:54 [StateMachine]: Player D890 (dpnid 16148457 uid ) Entering AuthPlayerLoginState
+13:41:55 [StateMachine]: Player D890 (dpnid 16148457 uid ) State Error (AuthPlayerLoginState)
+13:41:55 Player Unknown (16148457) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:41:55 [StateMachine]: Kick player D890 (dpnid 16148457 uid ) State AuthPlayerLoginState
+13:41:55 [Disconnect]: Client 16148457 early disconnect
+13:41:55 [Disconnect]: No identity -> remove player info 16148457 
+13:41:55 [Disconnect]: DisconnectPlayerFinish 16148457
+13:41:55 [Disconnect]: Remove player info 16148457
+13:41:55 [Disconnect]: Player destroy 16148457 
+13:41:55 Spieler D890 getrennt.
+13:41:57 Average server FPS: 19108.70 (measured interval: 10 s)
+13:42:07 Average server FPS: 18361.80 (measured interval: 10 s)
+13:42:17 Average server FPS: 18097.60 (measured interval: 10 s)
+13:42:27 Average server FPS: 18105.10 (measured interval: 10 s)
+13:42:37 Average server FPS: 18003.20 (measured interval: 10 s)
+13:42:47 Average server FPS: 18055.30 (measured interval: 10 s)
+13:42:57 Average server FPS: 18107.10 (measured interval: 10 s)
+13:43:07 Average server FPS: 18043.20 (measured interval: 10 s)
+13:43:17 Average server FPS: 18093.80 (measured interval: 10 s)
+13:43:24 [Login]: Adding player JohnWick (33701172) to login queue at position 0
+13:43:24 [LoginMachine]: Add player JohnWick (33701172 188.23.186.212:49720)
+13:43:24 [StateMachine]: Player JohnWick (dpnid 33701172 uid ) Entering AuthPlayerLoginState
+13:43:25 BattlEye Server: Player #0 JohnWick (188.23.186.212:49720) connected
+13:43:25 Spieler JohnWick verbindet.
+13:43:25 [StateMachine]: Player JohnWick (dpnid 33701172 uid ) Entering WaitAuthPlayerLoginState
+13:43:26 BattlEye Server: Player #0 JohnWick - BE GUID: 3136185f8ab4f601875da476f9a00dbb
+13:43:26 [IdleMode] Leaving OUT
+13:43:27 BattlEye Server: Verified GUID (3136185f8ab4f601875da476f9a00dbb) of player #0 JohnWick
+13:43:27 Spieler JohnWick  (ID = aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) verbunden.
+13:43:27 Player "JohnWick"(steamID=76561197998690788) is connected
+13:43:27 [StateMachine]: Player JohnWick (dpnid 33701172 uid ) Entering WaitPlayerAssignedLoginState
+13:43:27 Average server FPS: 18019.10 (measured interval: 10 s)
+13:43:28 [StateMachine]: Player JohnWick (dpnid 33701172 uid ) Entering PlayerAssignedLoginState
+13:43:28 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBGetLoginTimeLoginState
+13:43:28 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBWaitLoginTimeLoginState
+13:43:37 Average server FPS: 18032.40 (measured interval: 10 s)
+13:43:43 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering DBGetCharacterLoginState
+13:43:43 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering CreateNetObjectsLoginState
+13:43:43 Player JohnWick dpid=33701172 at pos (14299.1, 14.1, 11595.8) 
+13:43:43 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering PreloadCamLoginState
+13:43:43 [StateMachine]: Player JohnWick (dpnid 33701172 uid aSeZrScYkwQmCCVYeYx88yUS-RSUQG7g7xYDDomky38=) Entering WaitPreloadCamLoginState
+13:43:47 Average server FPS: 17971.50 (measured interval: 10 s)
+13:43:49 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:43:49 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Mag_SSG82_5rnd"
+13:43:57 Average server FPS: 17898.10 (measured interval: 10 s)
+13:44:07 Average server FPS: 18097.90 (measured interval: 10 s)
+13:44:15 Player JohnWick (33701172) kicked from server: 198 (Das Ticket wurde annulliert.)
+13:44:15 [Disconnect]: Client 33701172 early disconnect
+13:44:15 [Disconnect]: No player -> call DB exit 33701172 
+13:44:15 [Disconnect]: No player -> remove player info 33701172 
+13:44:15 [LoginMachine]: Force remove player JohnWick (33701172)
+13:44:15 [Disconnect]: DisconnectPlayerFinish 33701172
+13:44:15 [Disconnect]: Remove player info 33701172
+13:44:15 [Disconnect]: Player destroy 33701172 
+13:44:15 Spieler JohnWick getrennt.
+13:44:15 BattlEye Server: Player #0 JohnWick disconnected
+13:44:16 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:44:17 Average server FPS: 18006.10 (measured interval: 10 s)
+13:44:21 D890 benutzt modifizierte Daten-Datei
+13:44:21 [Login]: Adding player D890 (16397935) to login queue at position 0
+13:44:21 [LoginMachine]: Add player D890 (16397935 81.28.134.101:60923)
+13:44:21 [StateMachine]: Player D890 (dpnid 16397935 uid ) Entering AuthPlayerLoginState
+13:44:21 [StateMachine]: Player D890 (dpnid 16397935 uid ) State Error (AuthPlayerLoginState)
+13:44:21 Player Unknown (16397935) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:44:21 [StateMachine]: Kick player D890 (dpnid 16397935 uid ) State AuthPlayerLoginState
+13:44:21 [Disconnect]: Client 16397935 early disconnect
+13:44:21 [Disconnect]: No identity -> remove player info 16397935 
+13:44:21 [Disconnect]: DisconnectPlayerFinish 16397935
+13:44:21 [Disconnect]: Remove player info 16397935
+13:44:21 [Disconnect]: Player destroy 16397935 
+13:44:21 Spieler D890 getrennt.
+13:44:27 Average server FPS: 18081.00 (measured interval: 10 s)
+13:44:37 Average server FPS: 18154.10 (measured interval: 10 s)
+13:44:42 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:44:47 Average server FPS: 18161.00 (measured interval: 10 s)
+13:44:57 Average server FPS: 18150.10 (measured interval: 10 s)
+13:45:02 Moe benutzt modifizierte Daten-Datei
+13:45:02 [Login]: Adding player Moe (57562671) to login queue at position 0
+13:45:02 [LoginMachine]: Add player Moe (57562671 81.28.134.101:57149)
+13:45:02 [StateMachine]: Player Moe (dpnid 57562671 uid ) Entering AuthPlayerLoginState
+13:45:02 [StateMachine]: Player Moe (dpnid 57562671 uid ) State Error (AuthPlayerLoginState)
+13:45:02 Player Unknown (57562671) kicked from server: 120 (Der Client hat eine PBO, die nicht auf dem Server läuft. (E:\Steam\steamapps\common\DayZ\!dzsal\@AfterLife Vanilla+ _ Essentials\addons\FMZ_Loading.pbo))
+13:45:02 [StateMachine]: Kick player Moe (dpnid 57562671 uid ) State AuthPlayerLoginState
+13:45:02 [Disconnect]: Client 57562671 early disconnect
+13:45:02 [Disconnect]: No identity -> remove player info 57562671 
+13:45:02 [Disconnect]: DisconnectPlayerFinish 57562671
+13:45:02 [Disconnect]: Remove player info 57562671
+13:45:02 [Disconnect]: Player destroy 57562671 
+13:45:02 Spieler Moe getrennt.
+13:45:07 Average server FPS: 18030.70 (measured interval: 10 s)
+13:45:17 Average server FPS: 18019.60 (measured interval: 10 s)
+13:45:20 [IdleMode] Entering IN - save processed
+13:45:27 Average server FPS: 18063.50 (measured interval: 10 s)
+13:45:37 Average server FPS: 18068.40 (measured interval: 10 s)
+13:45:47 Average server FPS: 18107.00 (measured interval: 10 s)
+13:45:57 Average server FPS: 18117.80 (measured interval: 10 s)
+13:46:06 [Login]: Adding player D890 (16039790) to login queue at position 0
+13:46:06 [LoginMachine]: Add player D890 (16039790 81.28.134.101:56583)
+13:46:06 [StateMachine]: Player D890 (dpnid 16039790 uid ) Entering AuthPlayerLoginState
+13:46:06 BattlEye Server: Player #0 D890 (81.28.134.101:56583) connected
+13:46:06 Spieler D890 verbindet.
+13:46:06 [StateMachine]: Player D890 (dpnid 16039790 uid ) Entering WaitAuthPlayerLoginState
+13:46:07 Average server FPS: 18069.70 (measured interval: 10 s)
+13:46:08 BattlEye Server: Player #0 D890 - BE GUID: f64c12f305a43379d3618cd8ec90c613
+13:46:09 BattlEye Server: Verified GUID (f64c12f305a43379d3618cd8ec90c613) of player #0 D890
+13:46:09 Spieler D890  (ID = D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) verbunden.
+13:46:09 Player "D890"(steamID=76561198017124053) is connected
+13:46:09 [StateMachine]: Player D890 (dpnid 16039790 uid ) Entering WaitPlayerAssignedLoginState
+13:46:09 [StateMachine]: Player D890 (dpnid 16039790 uid ) Entering PlayerAssignedLoginState
+13:46:09 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering DBGetLoginTimeLoginState
+13:46:09 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering DBWaitLoginTimeLoginState
+13:46:11 [IdleMode] Leaving OUT
+13:46:17 Average server FPS: 17579.70 (measured interval: 10 s)
+13:46:24 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering DBGetCharacterLoginState
+13:46:24 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering CreateNetObjectsLoginState
+13:46:24 Player D890 dpid=16039790 at pos (9203.3, 113.5, 13104.0) 
+13:46:24 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering PreloadCamLoginState
+13:46:24 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering WaitPreloadCamLoginState
+13:46:27 Average server FPS: 17553.00 (measured interval: 10 s)
+13:46:33 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:46:33 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Mag_SSG82_5rnd"
+13:46:35 [StateMachine]: Player D890 (dpnid 16039790 uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=) Entering GetLoadedCharLoginState
+13:46:35 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 16039790
+    uid D1qir9yQ56fWAgSTys-2jelHhSoc_2BXuXIOh4NbH0M=
+13:46:37 Average server FPS: 16181.80 (measured interval: 10 s)
+13:46:41 BattlEye Server: RCon admin #0: (To D890) Welcome on AfterLife Vanilla +
+13:46:47 Average server FPS: 13701.90 (measured interval: 10 s)
+13:46:57 Average server FPS: 13695.10 (measured interval: 10 s)
+13:47:07 Average server FPS: 13687.50 (measured interval: 10 s)
+13:47:17 Average server FPS: 13749.70 (measured interval: 10 s)
+13:47:27 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:47:27 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "ParamedicPants_Green"
+13:47:27 Average server FPS: 13757.30 (measured interval: 10 s)
+13:47:37 Average server FPS: 13670.00 (measured interval: 10 s)
+13:47:47 Average server FPS: 13725.80 (measured interval: 10 s)
+13:47:57 Average server FPS: 13748.60 (measured interval: 10 s)
+13:48:07 Average server FPS: 13731.00 (measured interval: 10 s)
+13:48:17 Average server FPS: 13732.60 (measured interval: 10 s)
+13:48:20 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:48:21 !!! [CE][Point] Removing 4568.631836, 4227.516113 from Land_Roadblock_WoodenCrate
+13:48:27 Average server FPS: 13647.00 (measured interval: 10 s)
+13:48:37 Average server FPS: 13739.90 (measured interval: 10 s)
+13:48:47 Average server FPS: 13759.20 (measured interval: 10 s)
+13:48:57 Average server FPS: 13744.80 (measured interval: 10 s)
+13:49:07 Average server FPS: 13717.80 (measured interval: 10 s)
+13:49:14 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:49:14 !!! [CE][Point] Removing 5458.467773, 10140.931641 from Land_Roadblock_WoodenCrate
+13:49:14 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Ammo_40mm_Explosive"
+13:49:17 Average server FPS: 13652.50 (measured interval: 10 s)
+13:49:27 Average server FPS: 13689.70 (measured interval: 10 s)
+13:49:37 Average server FPS: 14372.80 (measured interval: 10 s)
+13:49:41 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "ACOGOptic_6x"
+13:49:47 Average server FPS: 14372.90 (measured interval: 10 s)
+13:49:57 Average server FPS: 13718.70 (measured interval: 10 s)
+13:50:07 Average server FPS: 13672.80 (measured interval: 10 s)
+13:50:08 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:50:17 Average server FPS: 13736.60 (measured interval: 10 s)
+13:50:27 Average server FPS: 13749.50 (measured interval: 10 s)
+13:50:37 Average server FPS: 13751.70 (measured interval: 10 s)
+13:50:47 Average server FPS: 13722.30 (measured interval: 10 s)
+13:50:57 Average server FPS: 13749.80 (measured interval: 10 s)
+13:51:02 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:51:07 Average server FPS: 13285.30 (measured interval: 10 s)
+13:51:17 Average server FPS: 13573.20 (measured interval: 10 s)
+13:51:27 Average server FPS: 13196.10 (measured interval: 10 s)
+13:51:29 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "Mag_SSG82_5rnd"
+13:51:37 Average server FPS: 13707.40 (measured interval: 10 s)
+13:51:47 Average server FPS: 13711.20 (measured interval: 10 s)
+13:51:56 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to plac

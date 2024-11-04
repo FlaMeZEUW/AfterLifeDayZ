@@ -1,0 +1,86 @@
+{
+    "m_SpawnLocations": [
+        {
+            "LocationName": "Matrosovo",
+            "SpawnCordinate": "14328.343750, 10.525946, 11538.197266", 
+            "SpawnRadius": 300, 
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Rudnogorsk",
+            "SpawnCordinate": "13452.939453, 2.562496, 12295.031250",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Rybnoe",
+            "SpawnCordinate": "12381.403320, 2.481728, 12797.691406",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Podgornoe",
+            "SpawnCordinate": "11043.581055, 4.033300, 13308.966797",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Orlovo",
+            "SpawnCordinate": "10468.216797, 17.966845, 13392.156250",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Severomorsk",
+            "SpawnCordinate": "9361.511719, 39.141914, 13351.744141",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Tumanovo",
+            "SpawnCordinate": "8542.006836, 7.857728, 13784.748047",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Jevai",
+            "SpawnCordinate": "8049.754395, 8.296120, 13504.217773",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Jasnomorsk",
+            "SpawnCordinate": "7074.541992, 10.608372, 13331.205078",
+            "SpawnRadius": 300,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "BaseSpawn",
+            "SpawnCordinate": "0 0 0",
+            "SpawnRadius": 1,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 3000,
+            "BodyBlockTimer": 20
+        }
+    ],
+    "AllowBaseSpawn": 0,
+    "BaseSpawnItemClassname": "TerritoryFlag"
+}

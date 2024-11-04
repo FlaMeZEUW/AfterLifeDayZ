@@ -1,0 +1,271 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2024-11-2_21-39-38
+====================================================================================
+21:39:38 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:39:38 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:39:38 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:39:38 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:39:38 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:39:38 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:39:38 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:39:38 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:39:38 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:39:38 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:39:38 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:39:38 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:39:38 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:39:38 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:39:38 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:39:38 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:39:38 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:39:38 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:39:38 | [PermissionManager] Adding Super Admin (76561198017124053)
+21:39:38 | [PermissionManager] Adding Super Admin (76561197998690788)
+21:39:38 | [PermissionManager] Adding Super Admin (76561199051296936)
+21:39:38 | [PermissionManager] Loaded UserGroups.json
+21:39:38 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:39:38 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:39:38 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:39:38 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:39:38 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:39:38 | Building Sets Loaded: 0
+21:39:38 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+21:39:38 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:40:13 | Player "D890" (steamId=76561198017124053) connected to server!
+21:40:13 | Player "FlaMeZEUW" (steamId=76561199051296936) connected to server!
+21:40:24 | [WeatherManager] Send Data Count is 0
+21:40:28 | [Time Manager] Setting Date to 2024/2/1 12:45
+21:41:34 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<14330.700195, 9.838415, 11545.099609>)
+21:41:34 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=14330.7,0,11545.1)
+21:41:53 | [WeatherManager] Send Data Count is 0
+21:42:38 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<13505.299805, 2.550000, 12231.200195>)
+21:42:38 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=13505.3,0,12231.2)
+21:42:40 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13505.009766, 2.550001, 12242.858398>)
+21:42:41 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13504.031250, 2.549987, 12251.228516>)
+21:42:41 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13502.410156, 2.543572, 12259.133789>)
+21:42:41 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13500.552734, 2.549989, 12266.543945>)
+21:42:41 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13498.429688, 2.549999, 12273.772461>)
+21:42:41 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13496.163086, 2.549996, 12279.994141>)
+21:42:42 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13492.412109, 2.550002, 12285.398438>)
+21:42:44 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13469.317383, 2.549999, 12292.312500>)
+21:42:45 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<13458.599609, 2.550000, 12293.057617>)
+21:43:15 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<12501.799805, 5.077227, 12721.900391>)
+21:43:15 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=12501.8,0,12721.9)
+21:43:18 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12511.370117, 5.484056, 12724.766602>)
+21:43:18 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12516.094727, 6.321286, 12723.819336>)
+21:43:18 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12521.328125, 7.562908, 12722.635742>)
+21:43:19 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12522.338867, 9.134177, 12718.431641>)
+21:43:20 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12519.483398, 7.825884, 12712.556641>)
+21:43:22 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12508.579102, 6.578190, 12713.165039>)
+21:43:23 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12494.573242, 5.689079, 12717.399414>)
+21:43:23 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12486.194336, 5.364788, 12719.741211>)
+21:43:23 | Player "JohnWick" (steamId=76561197998690788) connected to server!
+21:43:23 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12484.967773, 7.065038, 12719.395508>)
+21:43:23 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12474.862305, 5.380480, 12727.009766>)
+21:43:24 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12474.554688, 6.925157, 12726.976563>)
+21:43:24 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12467.402344, 3.610404, 12737.364258>)
+21:43:24 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12465.557617, 4.528309, 12739.239258>)
+21:43:25 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12461.837891, 3.451613, 12739.501953>)
+21:43:25 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12457.557617, 3.180062, 12745.199219>)
+21:43:26 | "FlaMeZEUW" (steamid=76561199051296936) toggled godmode
+21:43:26 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12450.677734, 3.817685, 12754.048828>)
+21:43:27 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12444.536133, 3.002245, 12760.920898>)
+21:43:29 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12415.256836, 1.032229, 12779.841797>)
+21:43:30 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12400.073242, 1.627780, 12788.484375>)
+21:43:30 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12391.145508, 2.167531, 12791.567383>)
+21:43:30 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<12382.422852, 2.668111, 12794.338867>)
+21:43:56 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<11039.799805, 4.940678, 13303.299805>)
+21:43:56 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=11039.8,0,13303.3)
+21:44:6 | "76561197998690788" (steamid=76561197998690788) teleported to (pos=<8183.970215, 215.787369, 12034.799805>)
+21:44:6 | "JohnWick": (steamid=76561197998690788) teleported to (pos=8183.97,0,12034.8)
+21:44:26 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<10393.299805, 5.997727, 13444.799805>)
+21:44:26 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=10393.3,0,13444.8)
+21:44:30 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<10474.539063, 24.226404, 13402.408203>)
+21:44:30 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<10474.428711, 25.719070, 13401.623047>)
+21:44:31 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<10466.280273, 17.474634, 13393.068359>)
+21:44:59 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<9347.919922, -2.312510, 13710.099609>)
+21:44:59 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=9347.92,0,13710.1)
+21:45:0 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<9344.000000, 2.310000, 13714.799805>)
+21:45:0 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=9344,0,13714.8)
+21:45:1 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<9344.000000, 2.310000, 13714.799805>)
+21:45:1 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=9344,0,13714.8)
+21:45:2 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<9348.698242, 2.366486, 13721.118164>)
+21:45:3 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<9348.201172, 2.387659, 13727.579102>)
+21:45:7 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<9357.269531, 39.901424, 13351.599609>)
+21:45:7 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=9357.27,0,13351.6)
+21:45:10 | "JohnWick" (steamid=76561197998690788) healed player (steamid=76561197998690788)
+21:45:43 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<8541.830078, 7.874566, 13786.400391>)
+21:45:43 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=8541.83,0,13786.4)
+21:45:55 | "D890" (steamid=76561198017124053) Spawned Item: (AKM)
+21:45:55 | "D890" (steamid=76561198017124053) Spawned Item: (AKM)
+21:46:9 | "D890" (steamid=76561198017124053) Spawned Item: (AKM)
+21:46:17 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<8053.609863, 8.286750, 13506.099609>)
+21:46:17 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=8053.61,0,13506.1)
+21:46:48 | "76561199051296936" (steamid=76561199051296936) teleported to (pos=<7000.830078, 13.319345, 13332.700195>)
+21:46:48 | "FlaMeZEUW": (steamid=76561199051296936) teleported to (pos=7000.83,0,13332.7)
+21:46:51 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6998.646973, 6.939182, 13353.003906>)
+21:46:51 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6997.014648, 5.860586, 13360.146484>)
+21:46:51 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6995.893066, 5.459390, 13364.597656>)
+21:46:51 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6995.067383, 5.275637, 13369.086914>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6994.144043, 5.174954, 13374.567383>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6994.184570, 5.181167, 13379.252930>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6994.962891, 5.166118, 13387.760742>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6995.881348, 5.280231, 13395.679688>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6996.736816, 5.648642, 13401.145508>)
+21:46:52 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6997.623047, 5.618649, 13405.832031>)
+21:46:53 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6998.493164, 5.844890, 13411.057617>)
+21:46:53 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<6999.362305, 5.800813, 13415.616211>)
+21:46:53 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7000.607422, 5.526575, 13420.002930>)
+21:46:53 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7002.419434, 5.107339, 13424.169922>)
+21:46:54 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7005.338379, 4.776883, 13427.590820>)
+21:46:54 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7009.143066, 4.762303, 13429.125977>)
+21:46:54 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7013.873535, 4.789213, 13430.645508>)
+21:46:54 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7018.951660, 4.861516, 13432.553711>)
+21:46:54 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7022.611816, 4.857433, 13433.969727>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7028.065918, 4.801728, 13436.076172>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7032.832520, 4.669822, 13437.932617>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7038.475586, 4.548669, 13439.798828>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7042.752441, 4.517427, 13440.512695>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7047.158203, 4.518929, 13440.953125>)
+21:46:55 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7051.211914, 4.607800, 13440.035156>)
+21:46:56 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7055.187012, 4.744184, 13437.720703>)
+21:46:56 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7057.578125, 4.876447, 13434.783203>)
+21:46:56 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7059.629395, 4.985167, 13430.917969>)
+21:46:56 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7063.496094, 5.061757, 13428.039063>)
+21:46:56 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7063.634277, 5.061818, 13428.235352>)
+21:46:57 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7067.880371, 5.093753, 13425.730469>)
+21:46:57 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7072.048828, 5.105060, 13423.102539>)
+21:46:57 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7076.232910, 5.053903, 13420.077148>)
+21:46:58 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7077.951172, 6.682622, 13413.056641>)
+21:46:58 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7079.850586, 6.361535, 13393.503906>)
+21:46:58 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7079.218750, 6.323733, 13383.606445>)
+21:46:59 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7078.952148, 7.297769, 13378.606445>)
+21:46:59 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7079.298828, 8.266598, 13372.823242>)
+21:46:59 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7079.919434, 8.954363, 13365.034180>)
+21:47:2 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7079.179688, 9.936756, 13355.401367>)
+21:47:2 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7078.115723, 10.305545, 13347.790039>)
+21:47:2 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7076.751465, 10.459963, 13341.109375>)
+21:47:2 | "FlaMeZEUW" (steamid=76561199051296936) teleported to crosshair (pos=<7075.321777, 10.549624, 13334.277344>)
+21:47:53 | "JohnWick" (steamid=76561197998690788) Created a new item preset: (Standart)
+21:47:58 | "D890" (steamid=76561198017124053) Spawned Item: (AK74)
+21:48:0 | Player "Survivor" (steamId=76561197988282466) connected to server!
+21:48:17 | "JohnWick" (steamid=76561197998690788) deleted the preset: (Standart)
+21:48:26 | "D890" (steamid=76561198017124053) Spawned Item: (AK74)
+21:48:33 | "D890" (steamid=76561198017124053) Spawned Item: (AK74)
+21:48:33 | "D890" (steamid=76561198017124053) Spawned Item: (AK74)
+21:48:37 | "JohnWick" (steamid=76561197998690788) Spawned Item: (GhillieHood_Winter)
+21:48:57 | "D890" (steamid=76561198017124053) Spawned Item: (Mag_AK74_30Rnd)
+21:49:5 | "D890" (steamid=76561198017124053) Spawned Item: (Mag_AK74_45Rnd)
+21:49:10 | "JohnWick" (steamid=76561197998690788) Spawned Item: (TTSKOPants)
+21:49:25 | "D890" (steamid=76561198017124053) Spawned Item: (Mag_AK74_45Rnd)
+21:49:45 | "D890" (steamid=76561198017124053) deleted object "Land_Village_PoliceStation_East" (pos=<13267.005859, 9.580091, 12071.632813>)
+21:50:3 | "D890" (steamid=76561198017124053) deleted object "AKM" (pos=<13272.881836, 7.171786, 12078.291992>)
+21:50:6 | "JohnWick" (steamid=76561197998690788) Spawned Item: (BDUPants)
+21:50:10 | "D890" (steamid=76561198017124053) deleted object "Land_Village_PoliceStation_East" (pos=<13267.005859, 9.580091, 12071.632813>)
+21:50:11 | "D890" (steamid=76561198017124053) deleted object "Land_Village_PoliceStation_East" (pos=<13267.005859, 9.580091, 12071.632813>)
+21:50:20 | "D890" (steamid=76561198017124053) Spawned Item: (Mag_AK74_45Rnd)
+21:50:34 | "JohnWick" (steamid=76561197998690788) Spawned Item: (MilitaryBoots_Beige)
+21:51:8 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:51:9 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:51:15 | "JohnWick" (steamid=76561197998690788) Spawned Item: (GorkaEJacket_Winter)
+21:51:36 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:51:41 | "JohnWick" (steamid=76561197998690788) Spawned Item: (GorkaPants_Winter)
+21:51:58 | "JohnWick" (steamid=76561197998690788) Spawned Item: (TacticalGloves_Black)
+21:52:26 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:26 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:26 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:26 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:26 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:27 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:52:27 | "D890" (steamid=76561198017124053) Spawned Item: (Ammo_545x39)
+21:53:6 | "JohnWick" (steamid=76561197998690788) Spawned Item: (PlateCarrierVest_Winter)
+21:53:31 | "JohnWick" (steamid=76561197998690788) Spawned Item: (PlateCarrierHolster_Winter)
+21:54:14 | Player "Survivor" (steamId=76561197988282466) initiated disconnect process...
+21:54:15 | Player "Survivor" (steamId=76561197988282466) disconnected early from server (EXIT NOW).
+21:54:19 | "JohnWick" (steamid=76561197998690788) Spawned Item: (PlateCarrierPouches_Winter)
+21:54:23 | "D890" (steamid=76561198017124053) Spawned Item: (FMZ_Admin_Bag_Invis)
+21:54:38 | "JohnWick" (steamid=76561197998690788) Spawned Item: (Canteen)
+21:55:0 | "FlaMeZEUW" (steamid=76561199051296936) Spawned Item: (br_sleepingbag)
+21:55:16 | "FlaMeZEUW" (steamid=76561199051296936) executed kill command on: "76561199051296936"
+21:55:18 | "FlaMeZEUW" (steamid=76561199051296936) toggled godmode
+21:55:21 | "FlaMeZEUW" (steamid=76561199051296936) executed kill command on: "76561199051296936"
+21:55:32 | "D890" (steamid=76561198017124053) healed player (steamid=76561198017124053)
+21:56:4 | "JohnWick" (steamid=76561197998690788) edited preset: (Standart)
+21:56:11 | Player "D890" (steamId=76561198017124053) initiated disconnect process...
+21:56:12 | Player "D890" (steamId=76561198017124053) disconnected early from server (EXIT NOW).
+21:56:14 | Player "FlaMeZEUW" (steamId=76561199051296936) initiated disconnect process...
+21:56:14 | Player "JohnWick" (steamId=76561197998690788) initiated disconnect process...
+21:56:14 | Player "FlaMeZEUW" (steamId=76561199051296936) disconnected from server.
+21:56:14 | Player "JohnWick" (steamId=76561197998690788) disconnected from server.

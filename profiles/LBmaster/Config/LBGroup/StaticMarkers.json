@@ -1,0 +1,31 @@
+[
+    {
+        "type": 0,
+        "uid": 938963038,
+        "name": "Big Booty Vulkan",
+        "icon": "LBmaster_Groups\\gui\\icons\\safezone.paa",
+        "position": [
+            10048.568359375,
+            500.7571105957031,
+            12026.7412109375
+        ],
+        "currentSubgroup": 0,
+        "colorA": 255,
+        "colorR": 0,
+        "colorG": 255,
+        "colorB": 0,
+        "creatorSteamID": "",
+        "circleRadius": 0.0,
+        "circleColorA": 255,
+        "circleColorR": 255,
+        "circleColorG": 255,
+        "circleColorB": 255,
+        "circleStriked": 0,
+        "circleLayer": -1,
+        "showAllPlayerNametags": 0,
+        "toSurface": 1,
+        "display3d": 1,
+        "displayMap": 1,
+        "displayGPS": 1
+    }
+]

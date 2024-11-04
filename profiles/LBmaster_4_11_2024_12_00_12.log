@@ -1,0 +1,25 @@
+Logger Started at: 4.11.2024 12:00:12
+12:00:12 [INFO ] [License] KExcng 1: 32
+12:00:12 [ADMIN] [License] My External IP: 45.155.173.34
+12:00:12 [INFO ] [License] KExcng 2: 1520492
+12:00:12 [INFO ] [License] KExcng 3: 5013061
+12:00:12 [INFO ] [License] KExcng 4: 5018459
+12:00:12 [INFO ] [License] KExcng 5: 5953105
+12:00:12 [INFO ] [License] KExcng 6: 5954624
+12:00:12 [INFO ] [License] KExcng 7: 5954854 Sucessfully connected to License Server: 213.109.160.200
+12:00:13 [INFO ] [License] Successfull License Request: 1/5
+12:00:13 [INFO ] [License] Successfully Loaded Server PBO for Advanced Groups Version 2.2.10-stable
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble1" (1). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble5" (5). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble10" (10). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble25" (25). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble50" (50). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble100" (100). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+12:00:20 [INFO ] [Webhook] All Webhooks Valid ? true
+12:00:20 [ERROR] [Core] Could not search folder: $profile:LBmaster/Data/LBGroup/Groups for json files! Could not open search handle, make sure the permissions are setup properly!
+12:00:27 [INFO ] [Plotpole] Flag Refresh time is 5d 0h 0m 0s and Uptime is 40d 0h 0m 0s
+12:00:27 [INFO ] [Plotpole] TerritoryFlag lifetime and refresh frequency is configured properly. Make sure all items, that should not despawn have a lifetime of at least 432300
+12:00:28 [ERROR] [UpdateCheck] Some of your Mods are not up to Date !
+12:00:28 [ERROR] [UpdateCheck] Mod Core is not up to date! (Installed: 1.5.3:stable, Latest: 1.5.4:stable)
+13:35:16 [ADMIN] [AdvancedGroups] Player Joined with Obfuscated ID: -2007067587 Real Identity: JohnWick (76561197998690788)
+13:46:35 [ADMIN] [AdvancedGroups] Player Joined with Obfuscated ID: -265676273 Real Identity: D890 (76561198017124053)

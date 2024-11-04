@@ -1,0 +1,177 @@
+{
+    "SpawnSystemMode": 1,
+    "SpawnLocations": [
+        {
+            "m_locationname": "Matrosovo",
+            "m_spawnlocation": [
+                14328.343750,
+                10.525946,
+                11538.197266
+            ],
+            "m_randomradius": 100.0
+        },
+        {
+            "m_locationname": "Rudnogorsk",
+            "m_spawnlocation": [
+                13452.939453, 
+                2.562496,
+                12295.031250
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Rybnoe",
+            "m_spawnlocation": [
+                12381.403320, 2.481728, 12797.691406
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Podgornoe",
+            "m_spawnlocation": [
+                11043.581055, 4.033300, 13308.966797
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Orlovo",
+            "m_spawnlocation": [
+                10468.216797, 17.966845, 13392.156250
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Severomorsk",
+            "m_spawnlocation": [
+                9361.511719, 39.141914, 13351.744141
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Tumanovo",
+            "m_spawnlocation": [
+                8542.006836, 7.857728, 13784.748047
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Jevai",
+            "m_spawnlocation": [
+                8049.754395, 8.296120, 13504.217773
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Jasnomorsk",
+            "m_spawnlocation": [
+                7074.541992, 10.608372, 13331.205078
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Bed",
+            "m_spawnlocation": [
+                9361.511719, 39.141914, 13351.744141
+            ],
+            "m_randomradius": 1000.0
+        }
+    ],
+    "SpawnTickets": [
+        {
+            "m_classname": "BasicSpawnSelect_SpawnTicket",
+            "m_ID": "Bandit",
+            "m_UsePosition": [
+                4111.2998046875,
+                0.0,
+                8912.7900390625
+            ],
+            "m_UseRadius": 50.0,
+            "m_PossibleSpawn": [
+                {
+                    "m_locationname": "Kamenka",
+                    "m_spawnlocation": [
+                        1892.1099853515626,
+                        6.1711249351501469,
+                        2244.1298828125
+                    ],
+                    "m_randomradius": 500.0
+                },
+                {
+                    "m_locationname": "West Balota",
+                    "m_spawnlocation": [
+                        4025.159912109375,
+                        6.494447231292725,
+                        2620.4599609375
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Chernogorsk",
+                    "m_spawnlocation": [
+                        6387.43017578125,
+                        9.290138244628907,
+                        2699.47998046875
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Elektrozavodsk",
+                    "m_spawnlocation": [
+                        10322.400390625,
+                        5.811277866363525,
+                        2171.159912109375
+                    ],
+                    "m_randomradius": 1000.0
+                }
+            ]
+        },
+        {
+            "m_classname": "BasicSpawnSelect_SpawnTicket",
+            "m_ID": "Admin",
+            "m_UsePosition": [
+                4111.2998046875,
+                0.0,
+                8912.7900390625
+            ],
+            "m_UseRadius": 50.0,
+            "m_PossibleSpawn": [
+                {
+                    "m_locationname": "Kamenka",
+                    "m_spawnlocation": [
+                        1892.1099853515626,
+                        6.1711249351501469,
+                        2244.1298828125
+                    ],
+                    "m_randomradius": 500.0
+                },
+                {
+                    "m_locationname": "West Balota",
+                    "m_spawnlocation": [
+                        4025.159912109375,
+                        6.494447231292725,
+                        2620.4599609375
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Chernogorsk",
+                    "m_spawnlocation": [
+                        6387.43017578125,
+                        9.290138244628907,
+                        2699.47998046875
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Elektrozavodsk",
+                    "m_spawnlocation": [
+                        10322.400390625,
+                        5.811277866363525,
+                        2171.159912109375
+                    ],
+                    "m_randomradius": 1000.0
+                }
+            ]
+        }
+    ]
+}
