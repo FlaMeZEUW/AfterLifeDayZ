@@ -41,7 +41,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     <file name="MMG_RaidSawTypes.xml" type="types" />
     <file name="MMG_RaidTools.xml" type="types" />
     <file name="MMG_Storage.xml" type="types" />
-	<file name="CodeLock.xml" type="types" /> 
-	<file name="CustomTypes.xml" type="spawnabletypes" /> 
+	<file name="CodeLock.xml" type="types" />
+	<file name="MountsScopes.xml" type="types" />
+	<file name="MountsScopesSpawnable.xml" type="spawnabletypes" />
+	<file name="CustomTypes.xml" type="spawnabletypes" />
+	<file name="bo_cfgspawnabletypes.xml" type="spawnabletypes" />
+	<file name="bo_types.xml" type="types" />
+	<file name="TypesXML_Paragon.xml" type="types" />
+	<file name="AE_Ammo.xml" type="types" />
   </ce>
 </economycore>
